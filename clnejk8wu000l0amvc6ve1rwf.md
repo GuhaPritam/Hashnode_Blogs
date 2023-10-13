@@ -1,6 +1,6 @@
 ---
 title: "Python(Part - 1): A Step-by-Step Beginner's Manual"
-seoTitle: "Exploring Python: A Step-by-Step Beginner's Manual"
+seoTitle: "Python(Part - 1): A Step-by-Step Beginner's Manual"
 seoDescription: "Explore Python from the ground up in this step-by-step beginner's manual. Chapter 1 is your starting point on your Python journey."
 datePublished: Fri Oct 06 2023 11:47:03 GMT+0000 (Coordinated Universal Time)
 cuid: clnejk8wu000l0amvc6ve1rwf
