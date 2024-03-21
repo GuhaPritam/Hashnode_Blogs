@@ -8,7 +8,7 @@ cuid: clpwi8llt000408kz2yghbkg7
 slug: best-approach-to-write-efficient-code-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696241784909/247c4850-57b0-46f1-9ea2-7824a37fb5ad.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696241826890/54d17220-89f1-486f-8a58-f166283c853e.png
-tags: python, python3, coding, python-beginner
+tags: code, software-development, python, python3, coding, python-beginner
 
 ---
 
