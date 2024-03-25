@@ -272,3 +272,6 @@ print(f"The price of the product is: ${price}")
 * `price` is calculated by using the `.get()` method of the dictionary, which retrieves the price based on the `product_category`. If the category is not found in the dictionary, it defaults to a price of 0.
     
 * The final line prints the calculated price, indicating the price of the product based on its category.
+    
+
+%[https://www.pritamguha.com/]
