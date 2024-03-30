@@ -183,4 +183,4 @@ print("Snake case -- ", name_of_city)
 
 %[https://www.pritamguha.com/] 
 
-%[https://github.com/CupOfSolution]
+%[https://github.com/GuhaPritam]
