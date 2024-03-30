@@ -52,4 +52,4 @@ Go to the official Python website at [**https://www.python.org/**](https://www.p
 
 %[https://www.pritamguha.com/] 
 
-%[https://github.com/CupOfSolution]
+%[https://github.com/GuhaPritam]
