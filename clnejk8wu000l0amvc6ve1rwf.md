@@ -7,7 +7,7 @@ cuid: clnejk8wu000l0amvc6ve1rwf
 slug: pythonpart-1-a-step-by-step-beginners-manual
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694516540357/f4a8e1e1-f000-4c6d-8694-268d95286108.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1694516632201/89787e7d-4bf6-42d0-9559-2d2ff2968e22.png
-tags: software-development, programming-blogs, python, python3, coding
+tags: software-development, programming-blogs, python, developer, python3, coding, devops
 
 ---
 
