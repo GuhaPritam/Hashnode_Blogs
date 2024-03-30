@@ -7,7 +7,7 @@ cuid: clpwi79v5000808jv2m5e1abk
 slug: pythonpart-3getting-started-with-python-data-types
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694429106154/ee04ad96-1fd9-471a-b2e1-3bda0a8cd13d.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696078217897/1046354c-d416-4fac-bf6a-74fcfcfb7f6f.png
-tags: software-development, python, fundamentals, python3, beginners, software-engineering, python-beginner
+tags: software-development, python, fundamentals, developer, python3, coding, devops, beginners, software-engineering, python-beginner
 
 ---
 
