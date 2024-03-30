@@ -54,7 +54,7 @@ print(_pritam, pritam_, _PRITAM_)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1694426483251/9d5b56dc-5794-477a-b05b-af9aee2bb598.png align="left")
 
-## `Example 1:` `(Associating Names with Values)--`
+## `Example 1:(Associating Names with Values)--`
 
 Here we assigned some values to some variables. There is a number, a floating-point number, and a string.
 
@@ -85,7 +85,7 @@ print("name -- ", name)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1694499796166/999ad989-00d8-42b2-820c-47d1d152f1d6.png align="left")
 
-## `Example 2:` `(Reassignment of Variables in Python)--`
+## `Example 2:(Reassignment of Variables in Python)--`
 
 Python allows variables to dynamically adopt new values during program execution. In this case, we re-assigned the values in the same variable.
 
@@ -180,3 +180,7 @@ print("Snake case -- ", name_of_city)
 ### `Output:`
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1694523137841/0192db2c-7d3c-46b0-93be-8d9ddf5975d1.png align="left")
+
+%[https://www.pritamguha.com/] 
+
+%[https://github.com/CupOfSolution]
