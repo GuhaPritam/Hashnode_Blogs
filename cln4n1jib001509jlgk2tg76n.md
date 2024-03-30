@@ -7,7 +7,7 @@ cuid: cln4n1jib001509jlgk2tg76n
 slug: react-part-1-how-to-create-a-new-project-in-react
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691130262637/c516c8d8-3ac3-4080-98c8-17813bb47844.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1691129780082/553b8f90-7cc5-4269-8a16-9b640225c6ee.png
-tags: software-development, react-native, developer, reactjs, reacthooks
+tags: software-development, react-native, developer, reactjs, coding, devops, reacthooks
 
 ---
 
