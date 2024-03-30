@@ -274,6 +274,6 @@ print(f"The price of the product is: ${price}")
 * The final line prints the calculated price, indicating the price of the product based on its category.
     
 
-%[https://github.com/CupOfSolution] 
+%[https://github.com/GuhaPritam] 
 
 %[https://www.pritamguha.com/]
