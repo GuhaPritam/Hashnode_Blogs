@@ -31,3 +31,9 @@ Some of the libraries I covered are listed below. Apart from these, many languag
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689314530942/75ed5052-847a-4982-8e37-480a6a5e414b.png align="center")
+
+%[https://www.youtube.com/@CodePlayer-3828] 
+
+%[https://github.com/GuhaPritam] 
+
+%[https://www.pritamguha.com/]
