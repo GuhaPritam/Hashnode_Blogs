@@ -7,7 +7,7 @@ cuid: clktk16nz000709mfbap14y37
 slug: what-is-function-scope
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689658481244/f4cc4a5b-df49-48b4-97c9-ef275469696a.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1689929720551/b11a4ef1-d1a9-4557-983d-1586143db898.png
-tags: software-development, python, developer, coding, beginners
+tags: software-development, python, developer, coding, beginners, global
 
 ---
 
@@ -82,3 +82,9 @@ if (true) {
 
 console.log(block_var);  // This will work in JavaScript since var has function scope
 ```
+
+%[https://youtube.com/@codeplayer-3828?si=HoSahYy9Q8t6Jfrt] 
+
+%[https://www.pritamguha.com/] 
+
+%[https://github.com/GuhaPritam]
