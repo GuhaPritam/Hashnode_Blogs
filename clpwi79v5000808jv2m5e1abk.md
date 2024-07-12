@@ -7,7 +7,7 @@ cuid: clpwi79v5000808jv2m5e1abk
 slug: pythonpart-3getting-started-with-python-data-types
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694429106154/ee04ad96-1fd9-471a-b2e1-3bda0a8cd13d.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696078217897/1046354c-d416-4fac-bf6a-74fcfcfb7f6f.png
-tags: software-development, python, fundamentals, developer, python3, coding, devops, beginners, software-engineering, python-beginner
+tags: variables, software-development, python, data-structures, fundamentals, developer, python3, coding, devops, beginners, software-engineering, boolean, dictionary, python-beginner, numerical-methods
 
 ---
 
@@ -177,4 +177,6 @@ print(f'This is a Byte Array -- {my_bytearray}')
 
 %[https://www.pritamguha.com/] 
 
-%[https://github.com/GuhaPritam]
+%[https://github.com/GuhaPritam] 
+
+%[https://youtube.com/@codeplayer-3828?si=HoSahYy9Q8t6Jfrt]
