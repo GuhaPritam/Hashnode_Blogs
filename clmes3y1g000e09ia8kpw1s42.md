@@ -7,7 +7,7 @@ cuid: clmes3y1g000e09ia8kpw1s42
 slug: knowing-about-winappdriver
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689930551660/7a6fb29c-0883-41de-be80-e85ab540317b.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1691129990594/7b7ef655-cea9-4b14-88c1-6033bf23c14d.png
-tags: software-development, python, developer, automation, testing
+tags: software-development, python, developer, automation, testing, selenium
 
 ---
 
@@ -37,4 +37,10 @@ After installing this, open or start the server. Without starting the server, we
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690176336436/5dad2ffc-78d9-477d-b600-4fda1c05419c.png align="center")
 
-After double-clicking, one command panel will open, and then the server will start.
+After double-clicking, one command panel will open, and then the server will start.  
+
+%[https://www.pritamguha.com/] 
+
+%[https://youtube.com/@codeplayer-3828?si=HoSahYy9Q8t6Jfrt] 
+
+%[https://github.com/GuhaPritam]
