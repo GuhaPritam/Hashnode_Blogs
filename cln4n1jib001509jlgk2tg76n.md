@@ -69,3 +69,9 @@ Now, you can start the development server to see your React app in action. Run t
 ```bash
 npm start
 ```
+
+%[https://youtube.com/@codeplayer-3828?si=HoSahYy9Q8t6Jfrt] 
+
+%[https://github.com/GuhaPritam] 
+
+%[https://www.pritamguha.com/]
