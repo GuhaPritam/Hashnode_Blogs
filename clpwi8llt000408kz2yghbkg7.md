@@ -8,7 +8,7 @@ cuid: clpwi8llt000408kz2yghbkg7
 slug: best-approach-to-write-efficient-code-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696241784909/247c4850-57b0-46f1-9ea2-7824a37fb5ad.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1696241826890/54d17220-89f1-486f-8a58-f166283c853e.png
-tags: code, software-development, python, python3, coding, python-beginner
+tags: code, software-development, python, python3, coding, python-beginner, approach
 
 ---
 
@@ -276,4 +276,6 @@ print(f"The price of the product is: ${price}")
 
 %[https://github.com/GuhaPritam] 
 
-%[https://www.pritamguha.com/]
+%[https://www.pritamguha.com/] 
+
+%[https://youtube.com/@codeplayer-3828?si=HoSahYy9Q8t6Jfrt]
