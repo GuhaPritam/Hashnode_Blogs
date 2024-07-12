@@ -243,3 +243,11 @@ if __name__ == "__main__":
 <div data-node-type="callout-emoji">💡</div>
 <div data-node-type="callout-text">Both client name should be different.</div>
 </div>
+
+  
+
+%[https://youtube.com/@codeplayer-3828?si=HoSahYy9Q8t6Jfrt] 
+
+%[https://www.pritamguha.com/] 
+
+%[https://github.com/GuhaPritam]
