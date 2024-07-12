@@ -7,7 +7,7 @@ cuid: clnsni7h0000k09jwhxa08kzv
 slug: unlocking-the-power-of-python-variables
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694414102932/ab7eb4ee-9315-4943-ad0b-524809ebe446.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1694516941876/2463b9af-754d-4c97-b8f7-f03ceef51099.png
-tags: software-development, python, development, developer, python3, coding, devops, functional-programming, software-engineering
+tags: software-development, python, development, developer, python3, coding, devops, functional-programming, software-engineering, scope, pythonvariables, global-variables
 
 ---
 
@@ -183,4 +183,6 @@ print("Snake case -- ", name_of_city)
 
 %[https://www.pritamguha.com/] 
 
-%[https://github.com/GuhaPritam]
+%[https://github.com/GuhaPritam] 
+
+%[https://youtube.com/@codeplayer-3828?si=HoSahYy9Q8t6Jfrt]
