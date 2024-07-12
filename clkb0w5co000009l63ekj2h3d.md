@@ -51,3 +51,9 @@ Publishers and subscribers want one topic for sending and receiving data. ***Top
 <div data-node-type="callout-emoji">💡</div>
 <div data-node-type="callout-text">In Topic, don't use the 4 slash "/" for topic creation.</div>
 </div>
+
+%[https://www.pritamguha.com/] 
+
+%[https://github.com/GuhaPritam] 
+
+%[https://www.youtube.com/@CodePlayer-3828]
