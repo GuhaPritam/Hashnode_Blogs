@@ -7,7 +7,7 @@ cuid: clk14cjem000409js2nm2eswm
 slug: automationpart-1-a-beginners-guide-to-streamlining-tasks-and-saving-time
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689143061795/32a9fc1d-bb98-429b-b1ec-36df2b3e92e0.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1689168047204/0808ab0a-cf75-4ce2-926b-c76d47e39106.jpeg
-tags: python, python3, automation, uiux-design, robotframework
+tags: python, python3, automation, selenium, uiux-design, automation-testing, selenium-webdriver-1, python-beginner, robotframework
 
 ---
 
@@ -42,3 +42,10 @@ Automation has transformed industries by optimizing processes, improving efficie
 * `Java:` Java is a popular programming language. It is widely used for enterprise automation, such as building automation frameworks, developing enterprise applications, and implementing test automation.
     
 * `Robot Framework:` Robot Framework is a popular choice among automation engineers. Robot Framework is an open-source, generic automation framework that provides a simple and readable syntax for creating test cases and automation scripts. It offers a range of features and extensibility options, making it suitable for various automation scenarios.
+    
+
+%[https://www.youtube.com/@CodePlayer-3828] 
+
+%[https://github.com/GuhaPritam] 
+
+%[https://www.pritamguha.com/]
